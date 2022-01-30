@@ -1,2 +1,2 @@
-Total amount of payments by department À = 7000
-Average monthly earnings by department À = 3500
+Total amount of payments by department A = 7000
+Average monthly earnings by department A = 3500
