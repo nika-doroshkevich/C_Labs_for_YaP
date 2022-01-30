@@ -1,0 +1,12 @@
+Doroshkevich
+A
+5000
+Ivanov
+A
+2000
+Atrasevich
+B
+2000
+Petrov
+C
+600
